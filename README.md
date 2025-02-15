@@ -86,5 +86,5 @@ query_router("How does ibuprofen work?")
 - **Improve MedBERT Fine-Tuning** to generate better responses.
 
 ---
-This project provides a **scalable, explainable, and efficient semantic search solution** for biomedical data retrieval. 🚀
+This project provides semantic search solution** for biomedical data retrieval. 🚀
 
